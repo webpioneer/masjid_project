@@ -252,6 +252,7 @@ INSTALLED_APPS = (
     "mezzanine.twitter",
     # "mezzanine.accounts",
     # "mezzanine.mobile",
+    "django_filters",
 )
 
 # List of middleware classes to use. Order is important; in the request phase,
